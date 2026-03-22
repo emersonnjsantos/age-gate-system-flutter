@@ -1,0 +1,47 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Native / Mobile
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# macOS
+.DS_Store
+*.pem
+
+# Logs
+logs
+*.log
+
+# OS
+Thumbs.db
+
+# Build files
+*.tgz
+*.tar.gz
+.cache/
+
+# Local env files
+.env*.local
+
+# Backend (Go)
+backend/age-gate-api
+backend/age-gate-api.exe
+backend/bin/
+
+# Flutter
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.pub-cache/
+flutter_app/.pub/
