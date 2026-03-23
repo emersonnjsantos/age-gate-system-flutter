@@ -18,26 +18,26 @@
 
 ---
 
-## 📸 Demonstração em Tempo Real
-
+## 📸 Demonstração do Fluxo
+ 
 <div align="center">
   <table style="width: 100%; text-align: center;">
     <tr>
-      <td width="50%">
-        <b>📱 Fluxo do App Mobile</b><br />
-        <br />
-        <!-- COLOQUE SEU GIF DO APP AQUI -->
-        <img src="https://via.placeholder.com/300x600?text=GIF+APLICATIVO+MOBILE" width="280" alt="Demonstração App" />
+      <td width="33%">
+        <b>1. Início</b><br />
+        <img src="./assets/gifs/GIF-1.gif" width="220" alt="Início" />
       </td>
-      <td width="50%">
-        <b>⚙️ Processamento de IA</b><br />
-        <br />
-        <!-- COLOQUE SEU GIF DO BACKEND/LOGICA AQUI -->
-        <img src="https://via.placeholder.com/300x600?text=GIF+PROCESSAMENTO+IA" width="280" alt="Demonstração IA" />
+      <td width="33%">
+        <b>2. Captura</b><br />
+        <img src="./assets/gifs/GIF-2.gif" width="220" alt="Captura" />
+      </td>
+      <td width="33%">
+        <b>3. Validação</b><br />
+        <img src="./assets/gifs/GIF-3.gif" width="220" alt="Validação" />
       </td>
     </tr>
   </table>
-  <p><i>Capture documentos (CNH/RG), valide via IA e garanta segurança instantânea.</i></p>
+  <p><i>Fluxo completo: Boas-vindas -> Captura de Documento -> Resultado da IA.</i></p>
 </div>
 
 ---
